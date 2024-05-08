@@ -1,4 +1,4 @@
-# KMeans_customer-Segmentation
+# Clustring_customer-Segmentation
 This repository contains the code and documentation for performing customer segmentation analysis on a mall dataset. The segmentation is done using KMeans clustering after data preprocessing and cleaning.
 
 # Steps:
